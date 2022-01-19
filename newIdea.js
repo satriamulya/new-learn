@@ -1,1 +1,1 @@
-console.log("new idea done")
+console.log("new idea done for learning")
