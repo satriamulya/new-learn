@@ -5,6 +5,6 @@
 - learn python
 ^ flask
 - learn html
-^unpasweb
+^ the net ninja
 - learn css
-^unpasweb
+^ the net ninja
