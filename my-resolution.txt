@@ -1,6 +1,8 @@
 - i can algortihm and structure data
 - learn java 
 - learn php
+^ codeigniter 3
 - learn python
+^ flask
 - learn html
 - learn css
