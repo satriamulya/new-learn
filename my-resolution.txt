@@ -4,6 +4,3 @@
 - learn python
 - learn html
 - learn css
-- learn cyber security
-
-
